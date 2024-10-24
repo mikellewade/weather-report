@@ -1,4 +1,6 @@
 // Solution adapted from Simon de Sal
+import "regenerator-runtime/runtime";
+import axios from "axios";
 
 // const BASE_URL = "https://weather-report-proxy-server.herokuapp.com";
 const BASE_URL = "http://localhost:5000";
